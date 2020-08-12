@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Hakkımda
+  name: About
   enable: true
   weight: 1
   showOnNavbar: true

@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Blog
+  name: Recent Posts
   enable: true
   weight: 5
   showOnNavbar: true

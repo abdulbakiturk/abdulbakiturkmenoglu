@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Hatıralar
+  name: Achievements
   enable: true
   weight: 6
   showOnNavbar: true
