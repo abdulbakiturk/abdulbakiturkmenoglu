@@ -55,7 +55,7 @@ params:
   customMenus:
     enable: false
   - name: Notes
-    url: https://hossainemruz.gitbook.io/notes/
+    url:
 
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
