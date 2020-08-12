@@ -53,9 +53,8 @@ params:
   # specify the list of custom menus that you want to show in the top navbar.
   # they will be separated by a divider from the main menus.
   customMenus:
-    enable: false
-  - name: Notes
-    url:
+  - ##name: Notes
+    ##url:
 
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
