@@ -18,17 +18,13 @@ section:
 # a summary about you
 summary: 'Merhaba,
 
-Tecrübelerimi ve çeşitli notlarımı paylaştığım kişisel sayfama hoş geldiniz.
-
-Ben Abdulbaki. 2010 yılında Ankara Prof. Dr. Mehmet Kaplan Sosyal Bilimler Lisesinden mezun olduktan sonra İstanbul Üniversitesi Hukuk Fakültesi’ne yerleştim. Üniversite hayatım boyunca birçok sivil toplum kuruluşunda gönüllü olarak görev aldım. Tüm bu zaman zarfı içerisinde kimi zaman kendi imkân ve planlarım doğrultusunda, kimi zaman da içerisinde yer aldığım kurum ve projeler çerçevesinde birçok yurtiçi ve yurtdışı ziyaretim oldu. En az aldığım eğitimler kadar, katıldığım bu projelerin ve gezilerimin hayata ve dünyaya bakışımı olumlu yönde etkilediğini gördüm.
+2010 yılında Ankara Prof. Dr. Mehmet Kaplan Sosyal Bilimler Lisesinden mezun olduktan sonra İstanbul Üniversitesi Hukuk Fakültesi’ne yerleştim. Üniversite hayatım boyunca birçok sivil toplum kuruluşunda gönüllü olarak görev aldım. Tüm bu zaman zarfı içerisinde kimi zaman kendi imkân ve planlarım doğrultusunda, kimi zaman da içerisinde yer aldığım kurum ve projeler çerçevesinde birçok yurtiçi ve yurtdışı ziyaretim oldu. En az aldığım eğitimler kadar, katıldığım bu projelerin ve gezilerimin hayata ve dünyaya bakışımı olumlu yönde etkilediğini gördüm.
 
 Üniversiteden mezun olduktan sonra yasal stajımı tamamlayarak avukat olarak meslek hayatına adım attım. Yaklaşık 1 yıl avukat olarak çalıştıktan sonra 2016 yılının Eylül ayında başlamış olduğum Queen Mary University of London hukuk yüksek lisans eğitimimi 2017 yılında tamamladım. Şu an University of Birmingham’da fikri ve sınai haklar alanında doktora eğitimime devam etmekteyim.
 
 Hayatımın her aşamasında edindiğim bilgi ve tecrübeleri çevremdeki insanlarla paylaşmaktan hep keyif aldım. Biraz geç de olsa bu paylaşımları internet ortamına taşımaya karar verdim ve bu sayfayı oluşturdum. Umarım keyifli vakit geçirirsiniz.
 
-Muhabbetle,
-
-Abdulbaki'
+Muhabbetle'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -48,7 +44,7 @@ socialLinks:
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
+##softSkills:
 ##- name: Leadership
   ##percentage: 85
   ##color: blue
