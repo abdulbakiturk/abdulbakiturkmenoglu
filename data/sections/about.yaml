@@ -6,14 +6,14 @@ section:
   showOnNavbar: true
 
 # your designation
-designation: Doktora Öğrencisi
+##designation: Doktora Öğrencisi
 # your company information
-company:
-  name: University of Birmingham
-  url: "https://www.example.com"
+##company:
+  ##name: University of Birmingham
+  ##url: "https://www.example.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+##resume: "files/resume.pdf"
 
 # a summary about you
 summary: 'Merhaba,
@@ -49,24 +49,24 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
-  percentage: 85
-  color: blue
-- name: Team Work
-  percentage: 90
-  color: yellow
-- name: Communication
-  percentage: 85
-  color: pink
-- name: Hard Working
-  percentage: 85
-  color: green
-- name: Fast Learner
-  percentage: 85
-  color: sky
-- name: Problem Solving
-  percentage: 85
-  color: orange
+##- name: Leadership
+  ##percentage: 85
+  ##color: blue
+##- name: Team Work
+  ##percentage: 90
+  ##color: yellow
+## name: Communication
+  ##percentage: 85
+  ##color: pink
+##- name: Hard Working
+  ##percentage: 85
+  ##color: green
+##- name: Fast Learner
+  ##percentage: 85
+  ##color: sky
+##- name: Problem Solving
+  ##percentage: 85
+  ##color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1
 #   percentage: 75
